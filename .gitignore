@@ -5,7 +5,7 @@
 *.tmp
 .metadata
 .recommenders
-
+.run
 
 # Ignore Eclipse config files
 
